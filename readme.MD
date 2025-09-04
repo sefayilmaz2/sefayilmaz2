@@ -6,8 +6,8 @@
 - 🌱 I'm currently learning **advanced development technologies**  
 - 👨‍💻 All of my projects are available at [https://github.com/sefayilmaz2](https://github.com/sefayilmaz2)
 - 💬 Ask me about **Web Development, Database Management, API Development**
-- 📫 How to reach me **sefayilmaz@example.com**
-- 📄 Know about my experiences **[LinkedIn Profile]**
+- 📫 How to reach me **sefaylmz187@gmail.com**
+- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/sefa-y%C4%B1lmaz-007859222/)**
 
 ---
 
@@ -31,6 +31,8 @@
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### ⚡ Web APIs & Tools
