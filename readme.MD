@@ -5,6 +5,7 @@
 - 🔭 I'm currently working on **innovative software solutions**
 - 🌱 I'm currently learning **advanced development technologies**  
 - 👨‍💻 All of my projects are available at [https://github.com/sefayilmaz2](https://github.com/sefayilmaz2)
+- 🔗 Check out my other GitHub account: [https://github.com/sefaylmz187](https://github.com/sefaylmz187)
 - 💬 Ask me about **Web Development, Database Management, API Development**
 - 📫 How to reach me **sefaylmz187@gmail.com**
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/sefa-y%C4%B1lmaz-007859222/)**
