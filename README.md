@@ -5,6 +5,7 @@ I build APIs and web applications — mostly with **.NET / C#**, **NestJS** and 
 
 - 🧩 I care about clean architecture, well-designed APIs and maintainable data layers.
 - 🌱 Currently exploring **Go** (Encore, Hono) and modern backend patterns.
+- 🌐 Portfolio: **[sefayilmaz.dev](https://sefayilmaz.dev)**
 - 📫 Reach me at **sefaylmz187@gmail.com**
 
 ---
@@ -56,6 +57,7 @@ I build APIs and web applications — mostly with **.NET / C#**, **NestJS** and 
 
 ## 📬 Get in Touch
 
+[![Website](https://img.shields.io/badge/Website-sefayilmaz.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sefayilmaz.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefa-y%C4%B1lmaz-007859222/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefaylmz187@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sefayilmaz2)
