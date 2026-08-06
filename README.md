@@ -47,7 +47,10 @@ I build APIs and web applications — mostly with **.NET / C#**, **NestJS** and 
 
 ## 📊 GitHub Stats
 
-![Sefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefayilmaz2&show_icons=true&hide_border=true&count_private=true&theme=default)
+<!-- Not: resmi github-readme-stats.vercel.app örneği sık sık kapanıyor (DEPLOYMENT_PAUSED).
+     Kalıcı çözüm: projeyi kendi Vercel hesabına fork'layıp URL'i kendi domainine çevirmek.
+     Şimdilik kararlı çalışan bir aynaya (mirror) bağlandı. -->
+![Sefa's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sefayilmaz2&show_icons=true&hide_border=true&count_private=true&theme=default)
 
 ---
 
